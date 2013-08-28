@@ -2,6 +2,9 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.oz-first-line h1{
+  font-family: 'Lobster', cursive;
+}
 
 .oz-weather-banner{
   padding-right: 12px;
