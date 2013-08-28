@@ -6,3 +6,12 @@
 .oz-weather-banner{
   padding-right: 12px;
 }
+
+.oz-cities{
+  font-size: 11px;
+  margin: 0 auto;
+  float: none;
+}
+.oz-cities li a{
+  padding: 4px 10px;
+}
